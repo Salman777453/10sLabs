@@ -1,0 +1,6 @@
+{
+  "name": "VocalForge",
+  "description": "Professional AI voice generation platform with realistic TTS, voice cloning, audio enhancement, multi-character story studio, sound effects, and voice changer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
